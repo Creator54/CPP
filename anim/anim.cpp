@@ -11,5 +11,6 @@ int main(){
         sleep(1);
         i++;
         system("clear");
+        if(i==10) i=0;
     }
 }
