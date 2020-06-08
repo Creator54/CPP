@@ -1,3 +1,3 @@
 # CPP
-## Tested with gcc/g++
+## Tested with g++
 Programs I made using cpp
